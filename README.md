@@ -1,4 +1,4 @@
-# 🤖 QUEEN_KYLIE-V3
+# 🤖 QUEEN_KYLIE-V3 👸❤️
 
 Introducing kylieXcylee's third version of the QUEEN_KYLIE WHATSAPP BOT, Queen_Kylie-V3 - Your all-in-one Whatsapp companion. This cutting-edge bot offers a wide range of features to simplify your life, from AI-powered chat and task management to personalized news updates, fun games, and more. With Queen_Kylie-V3, you'll have a trusted sidekick at your fingertips, ready to assist you 24/7. Experience the future of Whatsapp bots today!!!
 
@@ -61,13 +61,13 @@ For further customization and setup guidance, click the button below:
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/)
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mruniquehacker/KnightBot-MD)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sircylee/Queen_Kylie-V3)
 
-[![Deploy on Replit](https://repl.it/badge/github/quiec/whatsasena)](https://repl.it/github/mruniquehacker/KnightBot-MD)
+[![Deploy on Replit](https://repl.it/badge/github/quiec/whatsasena)](https://repl.it/github/sircylee/Queen_Kylie-V3)
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/mruniquehacker/KnightBot-MD&branch=main&name=knightbot)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/sircylee/Queen_Kylie-V3-MD&branch=main&name=knightbot)
 
-[![Deploy to Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Deploy%20to-Hugging%20Face-blue)](https://huggingface.co/login?next=%2Fspaces%2Fwhatsapp-bot%2Fknightbot%3Fduplicate%3Dtrue)
+[![Deploy to Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Deploy%20to-Hugging%20Face-blue)](https://huggingface.co/login?next=%2Fspaces%2Fwhatsapp-bot%Queen_Kylie-V3%3Fduplicate%3Dtrue)
 
 ### Additional Hosting Panels
 
