@@ -15,8 +15,8 @@ async function takeCommand(sock, chatId, message, args) {
         }
 
         // Get the packname from args or use default
-        const packname = args.join(' ') || 'KnightBot';
-        const author = 'Bot';
+        const packname = args.join(' ') || 'Kylie';
+        const author = 'cylee';
 
         try {
             // Create tmp directory if it doesn't exist
