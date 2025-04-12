@@ -10,7 +10,7 @@ const channelInfo = {
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
             newsletterJid: '120363161513685998@newsletter',
-            newsletterName: 'KnightBot MD',
+            newsletterName: 'Queen_Kylie-V3',
             serverMessageId: -1
         }
     }
@@ -75,7 +75,7 @@ async function viewOnceCommand(sock, chatId, message) {
                 
                 await sock.sendMessage(chatId, { 
                     image: buffer,
-                    caption: `*💀 KnightBot Anti ViewOnce 💀*\n\n*Type:* Image 📸\n${caption ? `*Caption:* ${caption}` : ''}`,
+                    caption: `*Queen_Kylie-V3 Anti ViewOnce 👸❤️*\n\n*Type:* Image 📸\n${caption ? `*Caption:* ${caption}` : ''}`,
                     ...channelInfo
                 });
                 console.log('✅ View once image processed successfully');
@@ -117,7 +117,7 @@ async function viewOnceCommand(sock, chatId, message) {
 
                 await sock.sendMessage(chatId, { 
                     video: fs.readFileSync(tempFile),
-                    caption: `*💀 KnightBot Anti ViewOnce 💀*\n\n*Type:* Video 📹\n${caption ? `*Caption:* ${caption}` : ''}`,
+                    caption: `*Queen_Kylie-V3 Anti ViewOnce 👸❤️*\n\n*Type:* Video 📹\n${caption ? `*Caption:* ${caption}` : ''}`,
                     ...channelInfo
                 });
 
